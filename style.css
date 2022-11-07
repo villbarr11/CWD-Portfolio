@@ -1,6 +1,6 @@
 #main 
 {
-    background-image: url(/Green/images/sun.jpg);
+    background-image: url(images/sun.jpg);
     background-repeat: no-repeat;
     position: relative;
 }
@@ -69,7 +69,7 @@
 
 .Goal 
 {
-    background-image: url(/Green/images/section2.jpg);
+    background-image: url(images/section2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -111,14 +111,14 @@
 
 .login 
 {
-    background-image: url(/Green/images/login.jpg);
+    background-image: url(images/login.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .problem 
 {
-    background-image: url(/Green/images/problem.jpg);
+    background-image: url(images/problem.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -193,21 +193,21 @@
 
 .workbg 
 {
-    background-image: url(/Green/images/leavesbg.jpg);
+    background-image: url(images/leavesbg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }   
 
 #wpics 
 {
-    background-image: url(/Green/images/leavesbg.jpg);
+    background-image: url(images/leavesbg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .whatbg 
 {
-    background-image: url(/Green/images/leavesbg.jpg);
+    background-image: url(images/leavesbg.jpg);
     background-size: 95%;
     background-position: center;
     background-repeat: no-repeat;
@@ -215,7 +215,7 @@
 
 .boardbg 
 {
-    background-image: url(/Green/images/leavesbg.jpg);
+    background-image: url(leavesbg.jpg);
     background-size: 95%;
     background-position: center;
     background-repeat: no-repeat;
@@ -248,7 +248,7 @@
 }
 .whybg 
 {
-    background-image: url(/Green/images/leavesbg.jpg);
+    background-image: url(images/leavesbg.jpg);
     background-size: 95%;
     background-position: center;
     background-repeat: no-repeat;
@@ -256,18 +256,18 @@
 
 #modal1 
 {
-    background-image: url(/Green/images/Signbg.jpg);
+    background-image: url(images/Signbg.jpg);
     background-repeat: no-repeat;
 }
 
 #slide-out 
 {
-    background-image: url(/Green/images/sidebg.jpg);
+    background-image: url(images/sidebg.jpg);
 }
 
 #modal2 
 {
-    background-image: url(/Green/images/aboutgb.jpg);
+    background-image: url(images/aboutgb.jpg);
 }
 
 footer
@@ -331,5 +331,5 @@ footer .menu li a:hover
 
 footer
 {
-    background: url(/Green/images/footbg.jpg);
+    background: url(images/footbg.jpg);
 }
