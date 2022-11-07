@@ -1,0 +1,335 @@
+#main 
+{
+    background-image: url(/Green/images/sun.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+
+.body 
+{
+    margin: 0;
+    font-family: "Poppins";
+    width: 100%;
+    overflow-x: hidden;
+    position: absolute;
+    top: 30%;
+}
+
+.topmenu nav
+{
+    height: 10%;
+    font-size: 4em;
+}
+
+.topmenu 
+{
+    width: 80%;
+    margin: auto;
+    position: relative;
+    margin-top: 40px;
+    font-family: "Poppins";
+
+}
+
+#logo 
+{
+    margin-top: 20px;
+    margin-left: 15px;
+
+}
+
+.topmenu nav ul
+{
+    position: absolute;
+    padding-right: 20px;
+    top: 30%;
+    right: 0;
+    font-family: 'Holtwood One SC', serif;
+    color: #744d29;
+}
+    
+
+#body h1
+{
+    padding-top: 50px;
+    font-family: 'Vast Shadow', cursive;
+    color: #515050;
+}
+
+#body h5
+{
+    padding-top: 50px;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Seymour One', sans-serif;
+    color: #515050;
+}
+
+.Goal 
+{
+    background-image: url(/Green/images/section2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Goal h2
+{
+    padding-bottom: 80px;
+    padding-top: 30px;
+    margin-left: 47%;
+    font-family: 'Frijole', cursive;
+
+}
+
+.Goal h3
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 60%;
+    margin-left: 28%;
+    text-align: center;
+    font-family: "Poppins";
+}
+
+.gallery h2
+{
+    padding-top: 30px;
+    font-family: 'Rubik Moonrocks', cursive;
+    text-align: center; 
+}
+
+.login 
+{
+    font-family: "Poppins";
+    width: 100%;
+    overflow-x: hidden;
+    position: absolute;
+    top: 15%; 
+}
+
+.login 
+{
+    background-image: url(/Green/images/login.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.problem 
+{
+    background-image: url(/Green/images/problem.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#prob 
+{
+    width: 50%;
+    text-align: left;
+    font-family: "Poppins";
+}
+
+#prob h5
+{
+    text-align: left;
+    width: 72%;
+    padding-bottom: 25%;
+}
+#sand 
+{
+   padding-top: 10%;
+   padding-left: 32%;
+}
+
+#what 
+{
+    width: 65%;
+    margin: auto;
+
+}
+
+#what h5 p
+{
+    text-align: center;
+    font-family: "Poppins";
+}
+
+#what h2
+{
+    padding-bottom: 40px;
+}
+
+#wold  
+{
+    color: #030303;
+}
+
+.row 
+{
+    padding-top: 30px;
+}
+
+.work h2
+{
+    text-align: center;
+    color: #f3f6f7;
+    padding-top: 30%;   
+}
+
+.nursey 
+{
+    padding-top: 40px;
+    width: 80%;
+    text-align: center;
+    padding-left: 60px;
+}
+
+#vidtext 
+{
+    width: 44%;
+    padding-bottom: 8%;
+}
+
+.workbg 
+{
+    background-image: url(/Green/images/leavesbg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}   
+
+#wpics 
+{
+    background-image: url(/Green/images/leavesbg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.whatbg 
+{
+    background-image: url(/Green/images/leavesbg.jpg);
+    background-size: 95%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.boardbg 
+{
+    background-image: url(/Green/images/leavesbg.jpg);
+    background-size: 95%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.parkcont 
+{
+    width: 90%;
+    padding-left: 15%;
+}
+
+.why
+{
+    padding-left: 25%;
+    width: 80%;
+}
+
+.why h3
+{
+    text-align: center;
+}
+.why h5
+{
+    text-align: center;
+}
+
+.park img
+{
+    padding-top: 80px;
+}
+.whybg 
+{
+    background-image: url(/Green/images/leavesbg.jpg);
+    background-size: 95%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#modal1 
+{
+    background-image: url(/Green/images/Signbg.jpg);
+    background-repeat: no-repeat;
+}
+
+#slide-out 
+{
+    background-image: url(/Green/images/sidebg.jpg);
+}
+
+#modal2 
+{
+    background-image: url(/Green/images/aboutgb.jpg);
+}
+
+footer
+{
+    position: relative;
+    width: 100%;
+    padding: 20px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer .social_icon,
+footer .menu
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    flex-wrap: wrap;
+}
+
+footer .social_icon li,
+footer .menu li
+{
+    list-style: none;
+
+}
+
+footer .social_icon li a
+{
+    font-size: 3em;
+    color: #744d29;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+}
+
+footer .social_icon li a:hover
+{
+    transform: translateY(-10px);
+}
+
+footer .menu li a
+{
+    font-size: 1.2em;
+    color: #744d29;
+    margin: 0 10px;
+    display: inline-block;
+    transition: 0.5s;
+    text-decoration: none;
+    opacity: 0.75;
+}
+
+footer .menu li a:hover 
+{
+    opacity: 1;   
+}
+
+footer
+{
+    background: url(/Green/images/footbg.jpg);
+}
