@@ -262,12 +262,12 @@
 
 #slide-out 
 {
-    background-image: url(images/sidebg.jpg);
+    background-image: url(images/sidebg.gif);
 }
 
 #modal2 
 {
-    background-image: url(images/aboutgb.jpg);
+    background-image: url(images/aboutbg.gif);
 }
 
 footer
@@ -331,5 +331,5 @@ footer .menu li a:hover
 
 footer
 {
-    background: url(images/footbg.jpg);
+    background: url(images/footbg.gif);
 }
